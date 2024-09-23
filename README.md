@@ -9,6 +9,9 @@ relevant analysis (such as hyperparameter).
 # Dataset Overview:
 The dataset is provided in two files: train.csv and test.csv, representing the pre-partitioned training and
 testing sets, respectively.
+
 • train.csv: Contains 60,000 instances.
+
 • test.csv: Contains 10,000 instances.
+
 Each line in the files corresponds to a single labeled data instance.
